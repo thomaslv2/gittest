@@ -6,5 +6,6 @@ def index(request):
     return HttpResponse('欢迎登陆首页')
 def register(request):
     print('增加dev分支')
+    print("创建bug分支")
     return HttpResponse('开发注册页面')
 
