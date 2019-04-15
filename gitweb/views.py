@@ -7,5 +7,6 @@ def index(request):
 def register(request):
     print('增加dev分支')
     print("创建bug分支")
+    print('gothub后dev1第一次输入')
     return HttpResponse('开发注册页面')
 
