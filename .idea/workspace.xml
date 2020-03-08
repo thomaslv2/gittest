@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988235ca-9225-4089-921c-5d1dbff74072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gittest/mongotest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gittest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gittest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,24 +14,17 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1R86opG4cnV0OMjraOU5vkQqEnK" />
+  <component name="ProjectId" id="1YqPXenF3Glsyu0rsgcDoba9SrS" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/oldboy/djangopart/ace_crm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,24 +203,7 @@
       <updated>1555370819252</updated>
       <workItem from="1555370821112" duration="3643000" />
       <workItem from="1556278378303" duration="67000" />
-      <workItem from="1569036585961" duration="1181000" />
-      <workItem from="1570627380458" duration="716000" />
-      <workItem from="1571661881847" duration="4783000" />
-      <workItem from="1582721510773" duration="2000" />
-      <workItem from="1582722019021" duration="1000" />
-      <workItem from="1582722530224" duration="2145000" />
-      <workItem from="1582726495591" duration="3749000" />
-      <workItem from="1583039311296" duration="1000" />
-      <workItem from="1583040422639" duration="148000" />
-      <workItem from="1583040849860" duration="1000" />
-      <workItem from="1583040913274" duration="421000" />
-      <workItem from="1583041618627" duration="2648000" />
-      <workItem from="1583328724888" duration="6062000" />
-      <workItem from="1583335145140" duration="1844000" />
-      <workItem from="1583412948261" duration="5263000" />
-      <workItem from="1583505094947" duration="859000" />
-      <workItem from="1583575953717" duration="2130000" />
-      <workItem from="1583663325445" duration="616000" />
+      <workItem from="1583667192784" duration="385000" />
     </task>
     <servers />
   </component>
@@ -241,19 +215,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/gittest$test0.coverage" NAME="test0 Coverage Results" MODIFIED="1583417679800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/gittest$codecopy.coverage" NAME="codecopy Coverage Results" MODIFIED="1582723513317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/gittest$stockstatic.coverage" NAME="stockstatic Coverage Results" MODIFIED="1583590506634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/gittest$test.coverage" NAME="test Coverage Results" MODIFIED="1583328880210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/gittest$demotest.coverage" NAME="demotest Coverage Results" MODIFIED="1582723799726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
